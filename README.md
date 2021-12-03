@@ -1,2 +1,2 @@
 # E-commerce-admin-app
-Admin panel for E-commerce
+Admin panel for E-commerce web application
