@@ -20,7 +20,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "set PORT=4000 && react-scripts start",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider && set PORT=4000 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -45,8 +45,5 @@
   },
   "devDependencies": {
     "redux-devtools-extension": "^2.13.9"
-  },
-  "engines": {
-    "node": "12.x"
   }
 }
