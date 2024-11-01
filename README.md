@@ -16,44 +16,31 @@ https://e-commerce-admin-app-opal.vercel.app/
 
 ## Features:
 
-1. Dashboard Overview
+- Dashboard Overview
 A dynamic dashboard displaying key performance indicators (KPIs) such as total sales, active users, pending orders, and revenue charts.
 Interactive graphs and analytics for quick insights into sales trends and customer behavior.
-2. Product Management
+- Product Management
 CRUD operations for products: add new products, update existing product information, delete or deactivate products.
 Support for product categories, pricing, inventory management, and image uploads.
 Bulk import/export of product data via CSV.
-3. Order Management
+- Order Management
 Comprehensive order tracking with status updates (pending, processed, shipped, delivered, or canceled).
 Ability to manage refunds, generate invoices, and assign shipments to delivery services.
 Advanced search and filtering options for efficient order processing.
-4. Customer Management
+- Customer Management
 View and manage registered customers, including their contact details, order history, and account status.
 Options to add notes, update customer information, and address support tickets.
-5. User Roles & Permissions
-Secure authentication and authorization system.
-Role-based access control (RBAC) to manage which features different admin users can access.
-Logging and auditing of admin activities for security and compliance.
-6. Content Management System (CMS)
+- Content Management System (CMS)
 Manage and customize the content on the e-commerce website, including banners, promotional offers, and homepage content.
 Easy-to-use editor for updating text, images, and video content.
-7. Reports & Analytics
-Generate detailed reports on sales, customer engagement, and product performance.
-Export reports in various formats (CSV, PDF) for business analysis.
-8. Marketing Tools
-Manage discount codes, promotional campaigns, and loyalty programs.
-Integration with email marketing platforms for sending newsletters and promotional emails.
-9. Settings & Configuration
-Manage site-wide settings such as payment gateway configuration, shipping methods, and tax rates.
-Customizable themes and layout settings for branding.
+
 
 ## Technologies Used:
 
-Frontend: React.js, Redux, Tailwind CSS / Bootstrap for styling.
-Backend: Node.js, Express.js, RESTful API architecture.
-Database: MongoDB / PostgreSQL for data storage.
-Authentication: JWT (JSON Web Tokens) for secure user sessions.
-Other Tools: Docker for containerization, AWS / Azure for deployment, Webpack for bundling assets.
+- Frontend: React.js, Redux, Bootstrap for styling.
+- Backend: Node.js, Express.js, RESTful API architecture.
+- Database: MongoDB for data storage.
+- Authentication: JWT (JSON Web Tokens) for secure user sessions.
 
 ## Contributing:
 Contributions are welcome! Please read our contributing guide for details on our code of conduct and the process for submitting pull requests.
