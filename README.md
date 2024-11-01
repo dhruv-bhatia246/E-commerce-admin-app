@@ -1,8 +1,12 @@
 # E-commerce Admin Panel
+
 This repository contains the source code for the Admin Panel of a comprehensive E-commerce web application. The Admin Panel is designed to manage all aspects of the e-commerce platform, providing a user-friendly interface for administrators to oversee operations, manage products, process orders, and maintain customer information efficiently.
 
-Live link hosted on Heroku:
-https://flipkart-admin-panel.herokuapp.com/
+## Live link of Admin Panel:
+
+https://flipkart-admin-panel.herokuapp.com/](https://e-commerce-admin-app-opal.vercel.app/
+
+## Screenshots:
 
 <img width="1440" alt="Screenshot 2024-11-02 at 3 38 04 AM" src="https://github.com/user-attachments/assets/b596838b-c607-48c4-b4e1-d61237a91c12">
 <img width="1440" alt="Screenshot 2024-11-02 at 3 40 21 AM" src="https://github.com/user-attachments/assets/eba3e3a9-5f87-43b7-84b5-3985cfce2806">
@@ -10,7 +14,8 @@ https://flipkart-admin-panel.herokuapp.com/
 <img width="1440" alt="Screenshot 2022-04-03 at 12 17 57 PM" src="https://user-images.githubusercontent.com/71057049/161415453-55400f2b-ce4a-4d64-9a86-720234ac6e3b.png">
 <img width="1440" alt="Screenshot 2024-11-02 at 3 37 35 AM" src="https://github.com/user-attachments/assets/71c9aa87-2222-4d17-8a69-68c598f4cf91">
 
-# Features:
+## Features:
+
 1. Dashboard Overview
 A dynamic dashboard displaying key performance indicators (KPIs) such as total sales, active users, pending orders, and revenue charts.
 Interactive graphs and analytics for quick insights into sales trends and customer behavior.
@@ -42,7 +47,7 @@ Integration with email marketing platforms for sending newsletters and promotion
 Manage site-wide settings such as payment gateway configuration, shipping methods, and tax rates.
 Customizable themes and layout settings for branding.
 
-# Technologies Used:
+## Technologies Used:
 
 Frontend: React.js, Redux, Tailwind CSS / Bootstrap for styling.
 Backend: Node.js, Express.js, RESTful API architecture.
@@ -50,11 +55,11 @@ Database: MongoDB / PostgreSQL for data storage.
 Authentication: JWT (JSON Web Tokens) for secure user sessions.
 Other Tools: Docker for containerization, AWS / Azure for deployment, Webpack for bundling assets.
 
-# Contributing:
+## Contributing:
 Contributions are welcome! Please read our contributing guide for details on our code of conduct and the process for submitting pull requests.
 
-# Link to Back-End Repo:
+## Link to Back-End Repo:
 https://github.com/dhruv-bhatia246/E-commerce-backend
 
-# Link to Main App Front-end:
+## Link to Main App Front-end:
 https://github.com/dhruv-bhatia246/E-commerce-frontend
