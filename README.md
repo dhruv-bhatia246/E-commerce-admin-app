@@ -4,7 +4,7 @@ This repository contains the source code for the Admin Panel of a comprehensive 
 
 ## Live link of Admin Panel:
 
-https://flipkart-admin-panel.herokuapp.com/](https://e-commerce-admin-app-opal.vercel.app/
+https://e-commerce-admin-app-opal.vercel.app/
 
 ## Screenshots:
 
